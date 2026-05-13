@@ -62,3 +62,6 @@ Simple Measure of Gobbledygook: 9.42 (about 15-year-olds).
 Coleman–Liau index: 10.66 (about 16-year-olds).
 
 This text should be understood in average by 14-year-olds.   
+
+## License
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License - see the LICENSE file for details.

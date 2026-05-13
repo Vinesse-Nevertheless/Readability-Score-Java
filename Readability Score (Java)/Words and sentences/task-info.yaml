@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/39/stages/206/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 05 May 2026 20:41:00 UTC"
+record: -1

@@ -1,0 +1,42 @@
+type: edu
+custom_name: Score!
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: true
+    learner_created: false
+  - name: src/readability/Main.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/readability/Readability.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/readability/TextReader.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/readability/in1.txt
+    visible: true
+    learner_created: true
+  - name: src/readability/in2.txt
+    visible: true
+    learner_created: true
+  - name: src/readability/in3.txt
+    visible: true
+    learner_created: true
+  - name: src/readability/in4/txt.java
+    visible: true
+    learner_created: true
+  - name: src/readability/in4.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/39/stages/207/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 08 May 2026 04:10:20 UTC"
+record: -1
